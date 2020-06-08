@@ -8,22 +8,22 @@
  * The script will try to use PHP's mail() function,
  * so if it is not properly configured it will fail silently (no error).
  */
-$mailTo     = 'email@example.com';
+$mailTo     = 'info@wilsonhuazhcoabogado.com';
 
 /**
  * Set the message that will be shown on success
  */
-$successMsg = 'Thank you, mail sent successfuly!';
+$successMsg = 'Gracias, su email fue enviado correctamente!';
 
 /**
  * Set the message that will be shown if not all fields are filled
  */
-$fillMsg    = 'Please fill all fields!';
+$fillMsg    = 'Por favor debe llenar todos los campos!';
 
 /**
  * Set the message that will be shown on error
  */
-$errorMsg   = 'Hm.. seems there is a problem, sorry!';
+$errorMsg   = 'Mmm.. tenemos un problema, lo sentimos!';
 
 /**
  * DO NOT EDIT ANYTHING BELOW THIS LINE, UNLESS YOU'RE SURE WHAT YOU'RE DOING
@@ -89,8 +89,6 @@ if(
 		echo json_encode( $json_arr );		
 	
 	}
-	
-
 } else {
 
 	// Validate e-mail
