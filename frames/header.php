@@ -11,15 +11,13 @@
                     </div>
                     <div class="col-md-6 col-sm-6 text-right">
                         <ul>
-                            <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>	
-                            <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#" title="Google+"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#" title="Tumblr"><i class="fa fa-tumblr"></i></a></li>
+                            <li><a href="#" title="Facebook"><i class="fab fa-facebook-f fa-fw"></i></a></li>	
+                            <li><a href="#" title="Twitter"><i class="fab fa-twitter fa-fw"></i></a></li>
+                            <li><a href="#" title="Google+"><i class="fab fa-instagram fa-fw"></i></a></li>
+                            <li><a href="#" title="Linkedin"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
                         </ul>
-                        <a href="#" title="Request a free consultation">
-                            <img src="images/icon/icon-1.png" alt="appoinment"/>
-                            Contáctanos <i class="fab fa-whatsapp"></i> 0994646173 
+                        <a href="https://wa.me/593994646173?text=Deseo%20realizar%20una%20consulta" title="Solicita una consulta gratuita" target="blank">
+                            <i class="fab fa-whatsapp fa-lg fa-fw"></i>  Contáctanos
                         </a>
                     </div>
                 </div>
@@ -34,9 +32,10 @@
                         <div class="location">
                             <h3>
                                 <img src="images/icon/location-ic.png" alt="Location"/>
-                                Our Location
+                                Ubicación
                             </h3>
-                            <p>Web Street, Melbourne - 18</p>
+                            <p>Alfonso Cordero y Manuel J Calle, Cuenca, Ecuador</p>
+                            <p>Edificio Atlantis</p>
                         </div>							
                     </div>
                     <div class="col-md-4 col-sm-4 logo-block mobile-hide">
@@ -48,9 +47,9 @@
                         <div class="phone">
                             <h3>
                                 <img src="images/icon/consultation-ic.png" alt="consultation"/>
-                                <span>Consultation</span>
+                                <span>Consultas</span>
                             </h3>
-                            <p>Call Us - (+1) 800 456 7890</p>
+                            <p>(+593) 994 646 173</p>
                         </div>
                     </div>
                 </div>

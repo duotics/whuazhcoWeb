@@ -42,7 +42,7 @@
     <link rel="stylesheet" type="text/css" href="libraries/bootstrap/bootstrap.min.css">
 	
 	<!-- Font Icons -->
-	<link rel="stylesheet" type="text/css" href="libraries/fonts/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/plugins/fontawesome-free-5.13.0-web/css/all.css">
 	<link rel="stylesheet" type="text/css" href="libraries/fonts/elegant-icons.css">
 
 	<!-- Library - OWL Carousel V.2.0 beta -->
