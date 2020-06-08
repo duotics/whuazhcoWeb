@@ -1,5 +1,5 @@
 <!-- Contact Us -->
-<div class="contact-us container-fluid no-padding">
+<div id="contact-section" class="contact-us container-fluid no-padding">
     <div class="container">
         <div class="section-padding"></div>
         <div class="col-md-4 col-sm-4">

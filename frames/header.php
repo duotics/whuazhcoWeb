@@ -80,8 +80,8 @@
                         <li class="active"><a href="index.php">Inicio</a></li>
                         <li><a href="#about-section">QUIENES SOMOS</a></li>
                         <li><a href="#service-section">ESPECIALIDADES</a></li>
-                        <li><a href="#equipment">Equipo PROFESIONAL</a></li>
-                        <li><a href="#contact">Contáctenos Y UBICANOS</a></li>
+                        <li><a href="#team-section">Equipo PROFESIONAL</a></li>
+                        <li><a href="#contact-section">Contáctenos Y UBICANOS</a></li>
                     </ul>						
                 </div>
             </div>
