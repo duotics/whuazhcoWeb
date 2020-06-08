@@ -2,6 +2,7 @@
     <!-- Container -->
     <div class="container">
         <!-- Contact Detail -->
+        <!--
         <div class="contact-details">
             <div class="col-md-4 col-sm-4 address-box detail-box">					
                 <h4>Law firm address</h4>
@@ -18,7 +19,9 @@
                 <p><a href="mailto:Info@Masterlawgroup.com">Info@Masterlawgroup.com</a></p>
                 <p><a href="mailto:Support@Masterlawgroup.com">Support@Masterlawgroup.com</a></p>
             </div>
-        </diV><!-- Contact Detail /- -->			
+        </diV>
+        -->
+        <!-- Contact Detail /- -->			
         <div class="row">
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <aside class="widget widget-about">						

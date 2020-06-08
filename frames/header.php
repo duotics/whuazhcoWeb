@@ -7,7 +7,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6">
-                        <p>Tienes problemas Laborales, nosotros te asesoramos</p>
+                        <p>Tienes problemas, nosotros te asesoramos</p>
                     </div>
                     <div class="col-md-6 col-sm-6 text-right">
                         <ul>
@@ -39,9 +39,9 @@
                         </div>							
                     </div>
                     <div class="col-md-4 col-sm-4 logo-block mobile-hide">
-                        <a href="index.html" class="image-logo" title="Logo"><img src="images/logo.png" alt="Logo" /></a>
-                        <h4>Master Law</h4>
-                        <span>Law Frim Group</span>
+                        <a href="index.html" class="image-logo" title="Logo"><img src="images/logo02-100x100.png" alt="Logo" /></a>
+                        <h4>Dr. Wilson Huazhco</h4>
+                        <span>Magister en Derecho Laboral</span>
                     </div>
                     <div class="col-md-4 col-sm-6 text-right col-xs-6">							
                         <div class="phone">
@@ -73,24 +73,15 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand text-logo desktop-hide" href="#">Master Law</a>
+                    <a class="navbar-brand text-logo desktop-hide" href="#">Dr. Wilson Huazhco Coronel</a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="services.html">Services</a></li>
-                        <li><a href="attorney.html">Our Team</a></li>
-                        <li><a href="attorney-details.html">departments</a></li>							
-                        <li><a href="practice.html">Gallery </a></li>
-                        <li class="dropdown">
-                            <a href="blog.html" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Blog</a>
-                            <i class="ddl-switch fa fa-angle-down"></i>
-                            <ul class="dropdown-menu">
-                                <li><a href="blog-post.html">Blog Post</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="contact-us.html">Contact</a></li>
+                        <li class="active"><a href="index.php">Inicio</a></li>
+                        <li><a href="#about-section">QUIENES SOMOS</a></li>
+                        <li><a href="#service-section">ESPECIALIDADES</a></li>
+                        <li><a href="#equipment">Equipo PROFESIONAL</a></li>
+                        <li><a href="#contact">Contáctenos Y UBICANOS</a></li>
                     </ul>						
                 </div>
             </div>
