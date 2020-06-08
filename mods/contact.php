@@ -26,7 +26,7 @@
                 <h3>Escríbenos</h3>
                 <a href="mailto:info@wilsonhuazhcoabogado.com">info@wilsonhuazhcoabogado.com</a>
                 <a href="mailto:legal@wilsonhuazhcoabogado.com">legal@wilsonhuazhcoabogado.com</a>
-                <a href="mailto:legal@wilsonhuazhcoabogado.com">wilsonhuazhco70@yahoo.es</a>
+                <a href="mailto:wilsonhuazhco70@yahoo.es">wilsonhuazhco70@yahoo.es</a>
             </div>
         </div>
     </div><!-- Container /- -->
