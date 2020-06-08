@@ -19,18 +19,18 @@
         <div class="container">
             <div class="col-md-4 col-sm-4 col-xs-6 service-block">
                 <img src="images/icon/service-ic-1.png" alt="service-icon"/>
-                <h3>Corporate Law</h3>
-                <p>The new common language will be more simple and regular than the existing European uages. It will be as simple as Occidental.</p>
+                <h3>LEGISLACIÓN LABORAL</h3>
+                <p>Solucionamos conflictos laborales</p>
             </div>
             <div class="col-md-4 col-sm-4 col-xs-6 service-block">
                 <img src="images/icon/service-ic-2.png" alt="service-icon"/>
-                <h3>Family Law</h3>
-                <p>The new common language will be more simple and regular than the existing European uages. It will be as simple as Occidental.</p>
+                <h3>LEGISLACIÓN FAMILIAR</h3>
+                <p>Conflictos de la Familia</p>
             </div>
             <div class="col-md-4 col-sm-4 col-xs-6 service-block">
                 <img src="images/icon/service-ic-3.png" alt="service-icon"/>
-                <h3>investment Law</h3>
-                <p>The new common language will be more simple and regular than the existing European uages. It will be as simple as Occidental.</p>
+                <h3>LEGISLACIÓN DE PROPIEDAD</h3>
+                <p>Resolución de litigios de bienes.</p>
             </div>
         </div>
     </div>

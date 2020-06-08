@@ -29,7 +29,7 @@
                         <div class="col-md-5 col-sm-5 banner-content">
                             <h3>Tienes problemas Laborales ?</h3>
                             <h4>Nosotros te asesoramos, somos los mejores.</h4>
-                            <p>Dr. Wilson Huazhco Coronel Magister en Derecho Laboral y Seguridad Social.</p>
+                            <p>Dr. Wilson Huazhco Coronel, Magister en Derecho Laboral y Seguridad Social.</p>
                             <a href="#" title="Read More">
                                 Contáctenos <i class="fa fa-angle-right"></i>
                                 <i class="fab fa-whatsapp fa-lg fa-fw"></i>  (+593) 994 646 173
@@ -57,7 +57,7 @@
                 <div class="carousel-caption">
                     <div class="container">
                         <div class="col-md-5 col-sm-5 banner-content">
-                            <h3>Todo tramite del área Laboral, Ministerio de Relaciones Laborales y Seguridad Social.</h3>
+                            <h3>Tramites del Ministerio de Relaciones Laborales y Seguridad Social.</h3>
                             <a href="#" title="Read More">
                                 Contáctenos <i class="fa fa-angle-right"></i>
                                 <i class="fab fa-whatsapp fa-lg fa-fw"></i>  (+593) 994 646 173
