@@ -10,7 +10,7 @@
         <!-- Team Carousel -->
         <div class="team-carousel">
             <div class="col-md-12 team-type">
-                <img src="images/team1.jpg" alt="team-1"/>
+                <img src="images/team4.jpg" alt="team-1"/>
                 <div class="member-content">
                     <div class="member-name">
                         <h6>Dr. Wilson Huazhco,</h6>
@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="col-md-12 team-type">
-                <img src="images/team2.jpg" alt="team-1"/>
+                <img src="images/team5.jpg" alt="team-1"/>
                 <div class="member-content">
                     <div class="member-name">
                         <h6>Ing. Fanny Hurtado,</h6>
