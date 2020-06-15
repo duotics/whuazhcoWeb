@@ -16,7 +16,7 @@
                             <li><a href="#" title="Google+"><i class="fab fa-instagram fa-fw"></i></a></li>
                             <li><a href="#" title="Linkedin"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
                         </ul>
-                        <a href="https://wa.me/593994646173?text=Deseo%20realizar%20una%20consulta" title="Solicita una consulta gratuita" target="blank">
+                        <a href="https://wa.me/593993073086?text=Deseo%20realizar%20una%20consulta" title="Solicita una consulta gratuita" target="blank">
                             <i class="fab fa-whatsapp fa-lg fa-fw"></i>  Contáctanos
                         </a>
                     </div>
@@ -34,12 +34,13 @@
                                 <img src="images/icon/location-ic.png" alt="Location"/>
                                 Ubicación
                             </h3>
-                            <p>Alfonso Cordero y Manuel J Calle, Cuenca, Ecuador</p>
-                            <p>Edificio Atlantis</p>
+                            <p>Alfonso Cordero 3-77 y Manuel J Calle</p>
+                            <p>Edificio Atlantis, Oficina. 102</p>
+                            <p>Cuenca, Ecuador</p>
                         </div>							
                     </div>
                     <div class="col-md-4 col-sm-4 logo-block mobile-hide">
-                        <a href="index.html" class="image-logo" title="Logo"><img src="images/logo02-100x100.png" alt="Logo" /></a>
+                        <a href="index.html" class="image-logo" title="Logo"><img src="images/logo01-100x100.png" alt="Logo" /></a>
                         <h4>Dr. Wilson Huazhco</h4>
                         <span>Magister en Derecho Laboral</span>
                     </div>
@@ -49,6 +50,7 @@
                                 <img src="images/icon/consultation-ic.png" alt="consultation"/>
                                 <span>Consultas</span>
                             </h3>
+                            <p>(+593) 993 073 086</p>
                             <p>(+593) 994 646 173</p>
                         </div>
                     </div>

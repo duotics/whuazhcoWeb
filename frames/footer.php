@@ -1,27 +1,6 @@
 <footer class="footer-main container-fluid no-padding">
     <!-- Container -->
     <div class="container">
-        <!-- Contact Detail -->
-        <!--
-        <div class="contact-details">
-            <div class="col-md-4 col-sm-4 address-box detail-box">					
-                <h4>Law firm address</h4>
-                <p>189 Design Street, Web Corner</p>
-                <p>Melbourne - 005</p>
-            </div>
-            <div class="col-md-4 col-sm-4 phone-box detail-box">
-                <h4>Free consultation</h4>
-                <p>Mobile: (+1) 800 433 633</p>
-                <p>Toll Free : (+1) 800 123 456</p>
-            </div>
-            <div class="col-md-4 col-sm-4 mail-box detail-box">
-                <h4>Mailing details</h4>
-                <p><a href="mailto:Info@Masterlawgroup.com">Info@Masterlawgroup.com</a></p>
-                <p><a href="mailto:Support@Masterlawgroup.com">Support@Masterlawgroup.com</a></p>
-            </div>
-        </diV>
-        -->
-        <!-- Contact Detail /- -->			
         <div class="row">
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <aside class="widget widget-about">						
@@ -29,8 +8,9 @@
                     <img src="images/icon/section-border.png" alt="section-border"/>
                     <p>Mágister en Derecho Laboral y Seguridad Social</p>
                     <div class="time-schedule">
-                        <p>Lunes a Viernes <span>8.00 - 17.00</span></p>
-                        <p>Sábado <span>8.00 - 13.00</span></p>
+                        <p>Lunes a Viernes <span>8.00 - 13.00</span></p>
+                        <p>Lunes a Viernes <span>15.00 - 19.00</span></p>
+                        <p>Sábado <span>8.00 - 12.00</span></p>
                     </div>
                 </aside>
             </div>

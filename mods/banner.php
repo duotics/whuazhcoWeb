@@ -23,7 +23,7 @@
                         </svg>
                     </div>
                 </div>
-                <img src="images/slider03.jpg" alt="banner-img">
+                <img src="images/slider04b.jpg" alt="banner-img">
                 <div class="carousel-caption">
                     <div class="container">
                         <div class="col-md-5 col-sm-5 banner-content">

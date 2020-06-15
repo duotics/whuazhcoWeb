@@ -6,3 +6,4 @@
 	<?php include('mods/testimonial.php') ?>
 	<?php include('mods/contact.php') ?>
 	<?php include('mods/map.php') ?>
+	<?php include('mods/logos.php') ?>
